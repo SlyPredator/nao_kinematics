@@ -1,0 +1,1 @@
+"""NAOKinematics Python library."""
